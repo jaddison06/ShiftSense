@@ -92,7 +92,7 @@ def openCB(root: tk.Tk):
 
 def main():
     win = tk.Tk()
-    win.geometry('500x300')
+    win.geometry('500x350')
     win.title('ShiftSense')
 
     center = ttk.Frame()
